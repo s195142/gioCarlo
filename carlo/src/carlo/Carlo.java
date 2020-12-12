@@ -208,7 +208,9 @@ public class Carlo {
 		elenCarlo.add("taroccarlo");
 		elenCarlo.add("sboccarlo");
 		elenCarlo.add("abboccarlo");
-		elenCarlo.add("maleducarlo - Achille Lauro");
+		elenCarlo.add("maleducarlo - Achille Lauro");		
+		elenCarlo.add("bla bla carlo");
+		elenCarlo.add("roberto il guiscarlo");
 
 	}
 	
